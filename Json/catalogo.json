@@ -1,0 +1,56 @@
+[
+
+    {
+        "id": 20,
+        "nombre": "La Iliada",
+        "precio":250, 
+        "autor" : "Homero",
+        "categoria" : "clasicos",
+        "stock": 0
+
+    },
+    {
+        "id": 11,
+        "nombre": "Crimen y Castigo",
+        "precio":200, 
+        "autor" :  "Dostoievski",
+        "categoria" : "clasicos",
+        "stock": 0
+
+    },
+
+    {
+        "id": 37,
+        "nombre": "El Proceso",
+        "precio":150, 
+        "autor" :  "Kafka",
+        "categoria" : "modernos",
+        "stock": 0
+
+    },
+    {
+        "id": 9,
+        "nombre": "Divina Comedia",
+        "precio":220, 
+        "autor" : "Dante Alighieri",
+        "categoria" :  "clasicos",
+        "stock": 0
+
+    },
+    {
+        "id":33,
+        "nombre": "En el Camino",
+        "precio":260, 
+        "autor" : "Jack Kerouac",
+        "categoria" : "contemporaneos",
+        "stock": 0
+
+    }
+
+]
+
+
+
+
+
+
